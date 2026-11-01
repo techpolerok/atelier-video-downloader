@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://github.com/techpolerok/atelier-video-downloader/releases/latest">
+    <img src="https://img.shields.io/badge/Descargar-AppImage_Linux_x86__64-7C2D36?style=for-the-badge&logo=linux&logoColor=white" alt="Download AppImage">
+  </a>
+  <a href="https://techpolerok.github.io/atelier-video-downloader/">
+    <img src="https://img.shields.io/badge/Web_Oficial-GitHub_Pages-22201D?style=for-the-badge" alt="Website">
+  </a>
+</p>
+
+![Atelier Video Downloader Screenshot](docs/screenshot.png)
+
 # Atelier Video Archiver (`yt-downloader`)
 
 A native Linux graphical application for archiving YouTube videos, playlists, and channels using **Python 3.10+**, **PySide6 (Qt6)**, and **yt-dlp** (used directly as a Python library).
