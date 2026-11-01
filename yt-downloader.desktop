@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Atelier Video Archiver
+GenericName=YouTube Video Downloader
+Comment=Download videos, playlists, and audio from YouTube using yt-dlp
+Exec=yt-downloader
+Icon=video-x-generic
+Terminal=false
+Categories=AudioVideo;Network;Qt;
+Keywords=youtube;yt-dlp;video;audio;downloader;
+StartupNotify=true
